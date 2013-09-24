@@ -1,0 +1,2 @@
+My android game is RPS (Rock, Paper, Scissors). Basically pick an option and it is played against a random cpu choice. Dialogue opens with the result of the game.
+My code is available at github under the public repository of ShaurinD in EECS481. Code is in the RPS directory. Build by importing into ADK.
